@@ -10,10 +10,10 @@ chai.use(chaiHttp);
 
 const projects = [
   'first_app',
-  'change_calculator',
-  'mortgage_calculator',
-  'top_spots',
-  'vstda'
+  'express_server',
+  'movie_finder_data',
+  'log_all_the_things',
+  'vstda_api'
 ];
 
 const checkValidHerokuUrl = (url) => {

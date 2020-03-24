@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://secure-lowlands-35398.herokuapp.com/",
+  "express_server": "",
+  "movie_finder_data": "",
+  "Log_all_the_things": "",
+  "vstda_api": ""
 }
