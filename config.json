@@ -1,7 +1,7 @@
 {
   "first_app": "https://secure-lowlands-35398.herokuapp.com/",
-  "express_server": "",
-  "movie_finder_data": "",
-  "Log_all_the_things": "",
-  "vstda_api": ""
+  "express_server": "https://glacial-badlands-04540.herokuapp.com/data",
+  "movie_finder_data": "https://arcane-mountain-47834.herokuapp.com/?t=babydriver",
+  "log_all_the_things": "https://radiant-oasis-77936.herokuapp.com/logs",
+  "vstda_api": "https://blooming-lowlands-05758.herokuapp.com/api/TodoItems"
 }
