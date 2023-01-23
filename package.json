@@ -21,7 +21,7 @@
     "babel-register": "^6.4.3",
     "bluebird": "^3.5.0",
     "chai": "^3.5.0",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.3.0",
     "chai-match": "^1.1.1",
     "express": "^4.15.3",
     "file-loader": "^0.11.2",
